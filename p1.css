@@ -1,0 +1,54 @@
+.b1
+{
+    color:#ff0e2e;
+    font-style: oblique;
+    background-color: rgb(184, 248, 131);
+    border:solid 2px blue;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+.b1:hover
+{
+    font-weight:900;
+    color:blueviolet
+}
+
+h1
+{
+    color: rgb(35, 247, 211);
+}
+
+.d1
+{
+    background-color: aquamarine;
+    /*width: 100px;*/
+    /*float: left;*/
+    margin-bottom: 2px;
+    text-transform: capitalize;
+    
+}
+
+.d2
+{
+    background-color: rgb(47, 163, 167);
+    /*width: 100px;*/
+    /*float: left;
+    clear: left;*/
+    text-transform: capitalize;
+
+}
+div
+{
+    margin-right: 2px;
+    border:solid black;
+    padding:5px;
+    width: fit-content;
+    float: left;
+}
+
+*
+{
+    box-sizing:border-box;
+}
